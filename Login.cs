@@ -50,5 +50,6 @@ namespace QLBH
                 Application.Exit();
             }
         }
+        Console.writeline("huan");
     }
 }
