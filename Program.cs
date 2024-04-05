@@ -18,5 +18,6 @@ namespace QLBH
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
         }
+        Console.wiriteline("Huan");
     }
 }
